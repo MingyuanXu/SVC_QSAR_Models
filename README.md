@@ -112,7 +112,7 @@ qsar.py are used the create this SVC model.
 
 evaluate.py are used to evaluate the SVC model.  
 
-all the datas are stored in Google Drive ()
+all the datas are stored in Google Drive (https://drive.google.com/drive/folders/1i2OUGKSFDjP82a5D0CCp-ekpHZaQuceI?usp=sharing)
 
 ## Contributors:
 [@Mingyuan Xu](https://github.com/MingyuanXu)
